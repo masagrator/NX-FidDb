@@ -1,2 +1,1 @@
-# NX-FidDb
-FunctionID database of Nintendo Switch executables
+0100E95004038000 - Xenoblade Chronicles 2 1.0.0
