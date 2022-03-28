@@ -7,7 +7,7 @@ AArch64, Engine info: Monolith's internal engine 2020
 01007F200B0C0000 - Ys VIII: Lacrimosa of Dana<br>
 AArch64, Engine info: YamaNeko (deprecated Falcom's internal engine)
 
-010005F00E036000 - Shin Hayarigami 1+2
+010005F00E036000 - Shin Hayarigami 1+2<br>
 AArch64, Engine info: NIS' internal engine 2019<br>
 Mix of: `main`, `Tfoaf1.nro` and `Tfoaf2.nro`
 
