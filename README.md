@@ -5,4 +5,4 @@ AArch64, Engine info: Monolith's internal engine 2017
 AArch64, Engine info: Monolith's internal engine 2020
 
 01007F200B0C0000 - Ys VIII: Lacrimosa of Dana<br>
-AArch 64, Engine info: YamaNeko (deprecated Falcom's internal engine)
+AArch64, Engine info: YamaNeko (deprecated Falcom's internal engine)
